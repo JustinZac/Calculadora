@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF30A432-1F5E-483C-AFFA-B18355293197}|Calculadora\\Calculadora.csproj|c:\\users\\admin\\source\\repos\\calculadora\\calculadora\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF30A432-1F5E-483C-AFFA-B18355293197}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF30A432-1F5E-483C-AFFA-B18355293197}|Calculadora\\Calculadora.csproj|C:\\Users\\Admin\\source\\repos\\Calculadora\\calculadora\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF30A432-1F5E-483C-AFFA-B18355293197}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Calculadora\\Calculadora\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Calculadora\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Calculadora\\Calculadora\\MainWindow.xaml",
+              "RelativeToolTip": "Calculadora\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T21:15:13.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Calculadora\\Calculadora\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Calculadora\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Calculadora\\Calculadora\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Calculadora\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA7wEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:15:12.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
